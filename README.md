@@ -8,7 +8,7 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Overview](#overview)
-- [Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`](#extract-html-from-mobi-files-with-mobiunpack%5C-32py)
+- [Extract HTML from `*.mobi` Files with `mobiunpack_32.py`](#extract-html-from-mobi-files-with-mobiunpack_32py)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -18,8 +18,9 @@ This repo contains software to extract content from `*.mobi` and `*.epub` eBook 
 by me).
 
 
-### Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`
+### Extract HTML from `*.mobi` Files with `mobiunpack_32.py`
 
+**NOTE** `mobiunpack_32.py` is compatible with Python v2.7 but not Python v3.
 
 From
 [https://www.mobileread.com/forums/showthread.php?t=61986](https://www.mobileread.com/forums/showthread.php?t=61986):
