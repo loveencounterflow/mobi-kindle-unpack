@@ -5,14 +5,18 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [mobi-kindle-unpack](#mobi-kindle-unpack)
+- [Overview](#overview)
+- [Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`](#extract-html-from-mobi-files-with-mobiunpack%5C-32py)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-
+# Overview
 
 This repo contains software to extract content from `*.mobi` and `*.epub` eBook reader formats (not written
 by me).
+
+
+# Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`
 
 
 From
