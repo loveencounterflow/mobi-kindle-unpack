@@ -1,4 +1,6 @@
-# mobi-kindle-unpack
+
+
+### mobi-kindle-unpack
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -10,13 +12,13 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Overview
+### Overview
 
 This repo contains software to extract content from `*.mobi` and `*.epub` eBook reader formats (not written
 by me).
 
 
-# Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`
+### Extract HTML from `*.mobi` Files with `mobiunpack\ 32.py`
 
 
 From
